@@ -242,6 +242,8 @@ In all commands [args] are forwarded to the underlying test runner.
                                                 *test-:StackTest*
 :StackTest [args]            Uses the `stack test` command.
 
+:ZigTest [args]              Uses the `zig test` command.
+
 
 STRATEGIES                                      *test-strategies*
 

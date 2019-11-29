@@ -42,6 +42,7 @@ runners are supported:
 | **Shell**      | Bats                                                                                        | `bats`                                                                                                          |
 | **Swift**      | Swift Package Manager                                                                       | `swiftpm`                                                                                                       |
 | **VimScript**  | Vader.vim, VSpec, Themis                                                                    | `vader`, `vspec`, `themis`                                                                                      |
+| **Zig**        | ZigTest                                                                                     | `zigtest`                                                                                      |
 
 ## Setup
 
