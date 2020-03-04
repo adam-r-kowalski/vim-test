@@ -29,7 +29,7 @@ endfunction
 
 " Returns the executable of your test runner
 function! test#zig#zigtest#executable()
-  return 'zig test'
+  return 'zig test --main-pkg-path .'
 endfunction
 
 function! s:nearest_test(position) abort
